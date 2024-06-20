@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/cover.jpeg"
-    width="300"
+    width="300;"
     style="border-radius: 100%;"
 />
 </p>
